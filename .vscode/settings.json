@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "aio.h": "c",
+        "string.h": "c",
+        "strings.h": "c",
+        "iostream": "c",
+        "ostream": "cpp"
+    }
+}

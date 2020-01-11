@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/githubfile/socketTest/socketTest_c/client.cpp
+stdio.h
+-
+unistd.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+iostream
+-
+string.h
+-
+arpa/inet.h
+-
+

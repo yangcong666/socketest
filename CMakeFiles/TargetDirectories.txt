@@ -1,0 +1,2 @@
+/root/githubfile/socketTest/CMakeFiles/rebuild_cache.dir
+/root/githubfile/socketTest/CMakeFiles/edit_cache.dir

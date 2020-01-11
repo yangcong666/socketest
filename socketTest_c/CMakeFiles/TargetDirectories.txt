@@ -1,0 +1,4 @@
+/root/githubfile/socketTest/socketTest_c/CMakeFiles/edit_cache.dir
+/root/githubfile/socketTest/socketTest_c/CMakeFiles/rebuild_cache.dir
+/root/githubfile/socketTest/socketTest_c/CMakeFiles/server_c.dir
+/root/githubfile/socketTest/socketTest_c/CMakeFiles/client_c.dir
